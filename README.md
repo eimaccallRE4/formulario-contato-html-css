@@ -13,7 +13,8 @@ Projeto de formulário desenvolvido com HTML5 e CSS3, aplicando boas práticas d
 - Interface estilizada com CSS
 
 ## 📷 Preview do Projeto
-![Preview](d14936ba-4edc-4b2a-8074-e204c8956a82.png)
+
+<img width="1920" height="1020" alt="d14936ba-4edc-4b2a-8074-e204c8956a82" src="https://github.com/user-attachments/assets/84796402-efb1-4bd0-8182-e535675ead0b" />
 
 
 
