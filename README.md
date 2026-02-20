@@ -1,12 +1,20 @@
-# formulario-contato-html-css
-Formulário web com validação de dados utilizando HTML5 e estilização com CSS3.
+# Formulário de Contato Web
 
+Projeto de formulário desenvolvido com HTML5 e CSS3, aplicando boas práticas de estruturação, validação de dados e organização de código.
 
-    <!DOCTYPE html>
-<html lang="pt-br">
-<head>
-<meta charset="UTF-8">
-<title>Formulário</title>
+## 🚀 Tecnologias Utilizadas
+- HTML5
+- CSS3
+
+## 📌 Funcionalidades
+- Validação de campos obrigatórios
+- Campo de CPF com verificação de padrão
+- Layout organizado com Fieldset
+- Interface estilizada com CSS
+
+## 📷 Preview do Projeto
+![Preview](preview.png)
+
 
 <style>
     body {
