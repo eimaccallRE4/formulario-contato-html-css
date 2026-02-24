@@ -2,17 +2,17 @@
 
 Projeto de formulário desenvolvido com HTML5 e CSS3, aplicando boas práticas de estruturação, validação de dados e organização de código.
 
-## 🚀 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - HTML5
 - CSS3
 
-## 📌 Funcionalidades
+## Funcionalidades
 - Validação de campos obrigatórios
 - Campo de CPF com verificação de padrão
 - Layout organizado com Fieldset
 - Interface estilizada com CSS
 
-## 📷 Preview do Projeto
+## Preview do Projeto
 
 <img width="1920" height="1020" alt="d14936ba-4edc-4b2a-8074-e204c8956a82" src="https://github.com/user-attachments/assets/84796402-efb1-4bd0-8182-e535675ead0b" />
 
